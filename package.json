@@ -1,0 +1,9 @@
+{
+  "name": "chronovault",
+  "version": "1.0.0",
+  "description": "Deterministic in-memory job vault with cron-like cadence and retries",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": { "start": "node src/index.js" },
+  "license": "MIT"
+}
